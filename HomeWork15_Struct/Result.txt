@@ -1,0 +1,29 @@
+Day shift employees with maximum salaries:
+12	Employee 12	225763 rubles, day shift
+3	Employee 3	145659 rubles, day shift
+15	Employee 15	144135 rubles, day shift
+
+Night shift employees with maximum salaries:
+9	Employee 9	231806 rubles, night shift
+4	Employee 4	213534 rubles, night shift
+6	Employee 6	202928 rubles, night shift
+
+Employees of all shifts with maximum salary:
+9	Employee 9	231806 rubles, night shift
+12	Employee 12	225763 rubles, day shift
+4	Employee 4	213534 rubles, night shift
+
+Day shift employees with minimal salaries:
+14	Employee 14	80212 rubles, day shift
+11	Employee 11	104100 rubles, day shift
+7	Employee 7	118354 rubles, day shift
+
+Night shift employees with minimal salaries:
+5	Employee 5	115930 rubles, night shift
+13	Employee 13	117157 rubles, night shift
+2	Employee 2	160078 rubles, night shift
+
+Employees of all shifts with minimal salary:
+14	Employee 14	80212 rubles, day shift
+11	Employee 11	104100 rubles, day shift
+5	Employee 5	115930 rubles, night shift
